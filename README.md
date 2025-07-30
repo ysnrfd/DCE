@@ -158,8 +158,8 @@ You are free to fork and build upon it with proper credit and within ethical gui
 Redistribution without credit is strictly forbidden.  
 
 ## 👨‍💻 Author
-Developer: YSNRFD  
-Telegram: @ysnrfd
+**Developer: YSNRFD**  
+**Telegram: @ysnrfd**
 
 ## ⭐ Support This Project
 **If you enjoyed this project or learned something useful, please star it on GitHub and share it with others!**
