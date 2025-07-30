@@ -152,7 +152,7 @@ This engine is intended for learning, game prototyping, and academic experiments
 You are not permitted to use this code in unethical simulations or closed-source game repackaging without preserving attribution.
 
 ## 📝 License
-This project is licensed under the YSNRFD License.  
+This project is licensed under the **YSNRFD License.**  
 You are free to fork and build upon it with proper credit and within ethical guidelines.  
 Redistribution without credit is strictly forbidden.  
 
