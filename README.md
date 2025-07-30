@@ -108,7 +108,7 @@ dungeon-crawler-engine/
 │── dungeon_crawler.py        # Main game engine
 │── #dungeon_crawler.log       # Log output
 │── #game_state.encrypted      # Cryptographically signed game save
-│── README.md                # This file
+│── README.md                
 │── LICENSE
 ```
 
