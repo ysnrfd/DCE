@@ -106,9 +106,10 @@ verified = SaveSystem.load("game_state.encrypted")
 ```structure
 dungeon-crawler-engine/
 │── dungeon_crawler.py        # Main game engine
-│── dungeon_crawler.log       # Log output
-│── game_state.encrypted      # Cryptographically signed game save
-│── README.md                 # This file
+│── #dungeon_crawler.log       # Log output
+│── #game_state.encrypted      # Cryptographically signed game save
+│── README.md                # This file
+│── LICENSE
 ```
 
 
