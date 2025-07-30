@@ -59,7 +59,7 @@ This project is for **educational purposes**, AI/ML pathfinding demos, and ethic
 
 ```bash
 git clone https://github.com/ysnrfd/DCE.git
-cd DCE
+cd DCE-main
 ```
 
 **2. Run the program**
